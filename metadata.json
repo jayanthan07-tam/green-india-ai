@@ -1,0 +1,6 @@
+{
+  "name": "Green India AI",
+  "description": "AI-powered civic complaint tracking, proof-of-resolution platform with secure multi-role authentication.",
+  "requestFramePermissions": ["geolocation", "camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
